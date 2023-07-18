@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Zephyr</string>
+    <string name="dev">Android Developer</string>
+    <string name="number">+91 987 6543 210</string>
+    <string name="call_icon">Call</string>
+    <string name="tag">@androidDev</string>
+    <string name="share_icon">Share</string>
+    <string name="mail">zephyr@gmail.com</string>
+    <string name="mail_icon">Email</string>
+</resources>
