@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art1">Photo by Sheldon Liu on Unsplash</string>
+    <string name="art2">Photo by Orlova Maria on Unsplash</string>
+    <string name="art3">Photo by Henrik Dønnestad on Unsplash</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
